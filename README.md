@@ -30,4 +30,4 @@ You can connect the following icon sets after UIkit library script:
 * The original Font Awesome icons license is  [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 * The original Font Awesome font license is [SIL OFL 1.1](https://scripts.sil.org/OFL)
 
-The original Font Awesome font created by [Dave Gandy](http://twitter.com/davegandy) can be found at https://fontawesome.io
+The original Font Awesome font created by [Dave Gandy](http://twitter.com/davegandy) can be found at https://fontawesome.com
