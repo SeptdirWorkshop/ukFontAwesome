@@ -1,7 +1,7 @@
 /*
 * @package     ukFontAwesome
 * @subpackage  Regular icons
-* @version     5.12.1
+* @version     5.13.0
 * @author      Septdir Workshop - www.septdir.com
 * @copyright   Copyright (c) 2018 - 2020 Septdir Workshop. All rights reserved.
 * @license     MIT license: https://opensource.org/licenses/MIT
