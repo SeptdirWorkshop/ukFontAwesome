@@ -2,7 +2,7 @@
 	"name": "@septdirworkshop/ukfontawesome",
 	"title": "ukFontAwesome",
 	"description": "Font Awesome for UIkit 3",
-	"version": "5.14.0",
+	"version": "5.15.0",
 	"main": "dist/js/uikit-fa-all-icons.js",
 	"repository": {
 		"type": "git",
